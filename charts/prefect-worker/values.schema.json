@@ -550,6 +550,12 @@
           "title": "Annotations",
           "description": "annotations to add to the service account",
           "form": true
+        },
+        "labels": {
+          "type": "object",
+          "title": "Labels",
+          "description": "extra labels for the service account",
+          "form": true
         }
       }
     },
